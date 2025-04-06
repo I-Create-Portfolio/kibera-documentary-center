@@ -252,6 +252,7 @@ a:focus {
 
 .custom_nav-container {
   padding: 0;
+  position: sticky;
 }
 
 .custom_nav-container .navbar-nav {
